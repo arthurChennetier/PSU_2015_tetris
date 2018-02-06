@@ -16,6 +16,7 @@ Tetris wrote in c language and using ncurses librairie
 ### How to play ?
 
 - Launch the game `./tetris`
+
 or
 - Change the settings `./tetris --help`
 

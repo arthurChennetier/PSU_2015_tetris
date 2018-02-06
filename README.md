@@ -1,6 +1,6 @@
 # PSU_2015_tetris
 
-Tetris wrote in c language and using ncurses librairie
+Tetris wrote in c language and using ncurses library
 
 ## Getting Started
 
